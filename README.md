@@ -1,3 +1,4 @@
+
 # assignments
 here i put my assignments
 
@@ -14,3 +15,7 @@ here i put my assignments
 [final_assignment_python](https://github.com/KoenJoosten19/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
 
 [final_assignment_R](https://github.com/KoenJoosten19/assignments/blob/master/Exam_student%20(1).ipynb)
+
+[26_oct_final_exam_python](https://github.com/KoenJoosten19/assignments/blob/master/exam%2026%20oct%20python.ipynb)
+
+[26_oct_final_exam_R](https://github.com/KoenJoosten19/assignments/blob/master/exam%2026%20oct%20R.ipynb)
